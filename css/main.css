@@ -25,6 +25,9 @@ body {
 }
 
 /* Global Style */
+.mainColor{
+    color: var(--dark-color);
+}
 .bg-primary{
     background-color: var(--dark-color) !important;
 }
